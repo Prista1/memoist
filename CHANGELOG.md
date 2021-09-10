@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.16.3](https://github.com/Prista1/memoist/tree/v0.16.3) (2021-09-10)
+
 ## [v0.16.2](https://github.com/matthewrudy/memoist/tree/v0.16.2) (2019-12-04)
 
 [Full Changelog](https://github.com/matthewrudy/memoist/compare/v0.16.1...v0.16.2)
